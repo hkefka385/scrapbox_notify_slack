@@ -1,0 +1,2 @@
+# scrapbox_notify_slack
+Scrapboxの1週間分の更新件数をslackに通知する
