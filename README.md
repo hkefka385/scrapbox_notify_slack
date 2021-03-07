@@ -14,6 +14,8 @@ requests>=1.0.4
 ## 使い方
 - -url: 通知したいscrapboxのURL
 - -slack: Slackの通知先のチャンネルのWebHooks　参考: https://sociocom.slack.com/apps/A0F7XDUAZ-incoming-webhooks
+
+
 ```python -url https://scrapbox.io/... -slack WebHooks-url ```
 
 ## 例
